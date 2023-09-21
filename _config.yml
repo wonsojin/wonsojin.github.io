@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "JiniNote"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "So jin"
+name                     : "So Jin"
 description              : "An amazing website."
 url                      : "https://wonsojin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "So Jin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "QA"
   location         : "Somewhere"
   email            :
   links:
