@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "JiniNote"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "So jin"
 description              : "An amazing website."
 url                      : "https://wonsojin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
