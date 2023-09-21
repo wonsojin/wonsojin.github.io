@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JiniNote"
+title                    : "자기계발러의 기록"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "So Jin"
+name                     : "Won So Jin"
 description              : "An amazing website."
 url                      : "https://wonsojin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "So Jin"
+  name             : "Won So Jin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "QA"
+  bio              : "Platform QA"
   location         : "Somewhere"
   email            :
   links:
