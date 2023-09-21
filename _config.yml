@@ -104,9 +104,8 @@ analytics:
 
 # Site Author
 author:
-  logo             : "/assets/css/sojin.jpg"
   name             : "WonSoJin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/css/sojin.jpg"
   bio              : "QA"
   location         : "South Korea"
   email            : "thwls3199@naver.com"
