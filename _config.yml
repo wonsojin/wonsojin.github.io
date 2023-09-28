@@ -16,7 +16,7 @@ minimal_mistakes_skin    : # "air", "aqua", "contrast", "dark", "dirt", "neon", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jin's blog"
+title                    : "Adela"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Won So Jin"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "WonSoJin"
+  name             : "Won"
   avatar           : "/assets/image/universe.jpg"
-  bio              : "QA"
+  bio              : "Engineer"
   location         : "South Korea"
   email            : "thwls3199@naver.com"
   links:
